@@ -57,23 +57,23 @@ Smart-City-Traffic-Analytics-Dashboard/
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Overview
+### Executive Overview
 
-![Executive Overview](Dashboard%20Images/Executive_Overview.png)
-
----
-
-## Time & Location Analysis
-
-![Time & Location Analysis](Dashboard%20Images/Time_Location_Analysis.png)
+![Executive Overview](Dashboard%20Images/Executive%20Overview.png)
 
 ---
 
-## Weather & Environmental Analysis
+### Time & Location Analysis
 
-![Weather & Environmental Analysis](Dashboard%20Images/Weather_Environmental_Analysis.png)
+![Time & Location Analysis](Dashboard%20Images/Time%20%26%20Location%20Analysis.png)
+
+---
+
+### Weather & Environmental Analysis
+
+![Weather & Environmental Analysis](Dashboard%20Images/Weather%20%26%20Environmental%20Analysis.png)
 
 ---
 
