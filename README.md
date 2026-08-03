@@ -31,28 +31,30 @@ Using **Python** for data preparation and **Power BI** for visualization, the da
 
 ---
 
-# 📂 Repository Structure
+## 📁 Repository Structure
 
-```
-Smart-City-Traffic-Analytics-Dashboard/
-
-│── README.md
-│── LICENSE
-│── Smart_City_Traffic_Analytics.pbix
-
+```text
+Smart-City-Traffic-Analytics-Dashboard
+│
+├── Dashboard Images
+│   ├── Executive Overview.png
+│   ├── Time & Location Analysis.png
+│   └── Weather & Environmental Analysis.png
+│
 ├── Dataset
 │   └── PowerBI_Dataset_Sample.xlsx
-
+│
 ├── Notebooks
 │   ├── 01_Data_Understanding.ipynb
 │   ├── 02_Exploratory_Data_Analysis.ipynb
 │   ├── 03_Data_Cleaning.ipynb
 │   └── 04_PowerBI_Dataset_Preparation.ipynb
-
-├── Dashboard Images
-│   ├── Executive_Overview.png
-│   ├── Time_Location_Analysis.png
-│   └── Weather_Environmental_Analysis.png
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+└── Smart_City_Traffic_Analytics.pbix
+---
 ```
 
 ---
