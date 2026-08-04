@@ -63,7 +63,7 @@ Smart-City-Traffic-Analytics-Dashboard
 
 ### Executive Overview
 
-![Executive Overview](Dashboard%20Images/Executive%20Overview.png)
+
 
 ---
 
